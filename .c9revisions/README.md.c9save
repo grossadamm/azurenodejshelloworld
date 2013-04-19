@@ -1,0 +1,2 @@
+{"ts":1366397288328,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"azurenodejshelloworld\n=====================\n\nThis is a very simple node.js site that will deploy successfully to an azure node.js instance."]],"start1":0,"start2":0,"length1":0,"length2":139}]],"length":139}
+{"contributors":[],"silentsave":false,"ts":1366397300257,"patch":[[{"diffs":[[0,"zure"],[1," "],[0,"node"],[1,"."],[0,"js"],[1," "],[0,"hello"],[1," "],[0,"worl"]],"start1":1,"start2":1,"length1":19,"length2":23}]],"length":143,"saved":false}
